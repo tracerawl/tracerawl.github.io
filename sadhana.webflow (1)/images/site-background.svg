@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 938.36 3528">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Web_1280_15);
+      }
+
+      .cls-2 {
+        fill: #3b408e;
+      }
+
+      .cls-3 {
+        fill: #646be6;
+      }
+
+      .cls-4 {
+        fill: #c3ffef;
+      }
+
+      .cls-5 {
+        fill: #a2a8ff;
+      }
+
+      .cls-6 {
+        fill: #00b786;
+      }
+
+      .cls-7 {
+        fill: #6787de;
+      }
+    </style>
+    <clipPath id="clip-Web_1280_15">
+      <rect width="938.36" height="3528"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1280_15" data-name="Web 1280 – 15" class="cls-1">
+    <rect class="cls-7" width="938.36" height="3528"/>
+    <rect id="Rectangle_103" data-name="Rectangle 103" class="cls-2" width="852.716" height="457.784" transform="translate(-0.017 3137)"/>
+    <rect id="Rectangle_10" data-name="Rectangle 10" class="cls-3" width="345.624" height="587.11" transform="translate(0 0.229)"/>
+    <rect id="Rectangle_101" data-name="Rectangle 101" class="cls-3" width="506.624" height="483.11" transform="translate(0 3383.229)"/>
+    <path id="Path_53" data-name="Path 53" class="cls-4" d="M0,0H593.716L0,70.385Z" transform="translate(345.983)"/>
+    <path id="Path_52" data-name="Path 52" class="cls-4" d="M0,0H345.714L0,154.786Z" transform="translate(0 432.326)"/>
+    <circle id="Ellipse_1" data-name="Ellipse 1" class="cls-2" cx="95.42" cy="95.42" r="95.42" transform="translate(77.805 125.514)"/>
+    <circle id="Ellipse_2" data-name="Ellipse 2" class="cls-2" cx="95.42" cy="95.42" r="95.42" transform="translate(614.438 210.85) rotate(45)"/>
+    <circle id="Ellipse_3" data-name="Ellipse 3" class="cls-5" cx="95.42" cy="95.42" r="95.42" transform="translate(671.529 267.941) rotate(45)"/>
+    <circle id="Ellipse_2-2" data-name="Ellipse 2" class="cls-2" cx="95.42" cy="95.42" r="95.42" transform="translate(440.944 1600.85) rotate(45)"/>
+    <circle id="Ellipse_6" data-name="Ellipse 6" class="cls-5" cx="95.42" cy="95.42" r="95.42" transform="translate(498.036 1657.941) rotate(45)"/>
+    <path id="Path_48" data-name="Path 48" class="cls-2" d="M0,0H456.038V456.32H0Z" transform="translate(0 908.229)"/>
+    <path id="Path_51" data-name="Path 51" class="cls-2" d="M0,0H362.092L0,362.315Z" transform="translate(1 2167.281)"/>
+    <path id="Path_47" data-name="Path 47" class="cls-4" d="M7387.88,12677.723l-455.277,454.41H7387.88Z" transform="translate(-6931.263 -11767.284)"/>
+    <path id="Path_50" data-name="Path 50" class="cls-5" d="M7513.671,12677.719,6932.6,13257.686h581.068Z" transform="translate(-6932.986 -10502.686)"/>
+    <path id="Path_49" data-name="Path 49" class="cls-6" d="M0,210.419Z" transform="translate(453.195 1154.13)"/>
+    <path id="Path_47-2" data-name="Path 47" class="cls-3" d="M7387.88,12677.723l-455.277,454.41H7387.88Z" transform="translate(-6931.31 -11767.284)"/>
+    <path id="Path_47-3" data-name="Path 47" class="cls-3" d="M7289.368,12677.721,6932.6,13033.807h356.764Z" transform="translate(-6351.008 -10278.746)"/>
+    <rect id="Rectangle_99" data-name="Rectangle 99" class="cls-2" width="593.716" height="154.784" transform="translate(345.983)"/>
+    <rect id="Rectangle_102" data-name="Rectangle 102" class="cls-5" width="593.716" height="461.784" transform="translate(344.983 3042)"/>
+    <rect id="Rectangle_100" data-name="Rectangle 100" class="cls-5" width="345.714" height="154.786" transform="translate(0 432.326)"/>
+    <path id="Path_47-4" data-name="Path 47" class="cls-5" d="M455.277,0,0,454.411H455.277Z" transform="translate(911.409 1364.043) rotate(180)"/>
+  </g>
+</svg>
